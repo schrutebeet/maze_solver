@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run main",
+            "type": "python",
+            "request": "launch",
+            "program": "...",
+            "python": "/Users/Ricky/Documents/Gitlab/maze-solver/maze_venv/Scripts/python.exe",
+            "env": {
+                "PYTHONPATH": "/home/schrute_beet/Github/stock_market/"
+            }
+        }
+    ]
+}
