@@ -5,10 +5,10 @@
             "name": "Run main",
             "type": "python",
             "request": "launch",
-            "program": "...",
+            "program": "/Users/Ricky/Documents/Gitlab/maze-solver/src/maze_solver/main.py",
             "python": "/Users/Ricky/Documents/Gitlab/maze-solver/maze_venv/Scripts/python.exe",
             "env": {
-                "PYTHONPATH": "/home/schrute_beet/Github/stock_market/"
+                "PYTHONPATH": "/home/schrute_beet/Github/maze-solver/"
             }
         }
     ]
